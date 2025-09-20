@@ -1,0 +1,5 @@
+Embeded system
+linux kernel
+Git
+Window operating system
+MySQL Database

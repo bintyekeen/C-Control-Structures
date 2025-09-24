@@ -1,0 +1,5 @@
+The four stages of C compilation are:
+1. Preprocssing:handles directives like #include and #define before actual compilation
+2. Compiling: Translates the preprocessed code into assembly code for the target machine.
+3. Assembling: converts the assembly code into machine code.
+4. Linking: combines object files and libraries into final executable program.

@@ -1,0 +1,6 @@
+1.we use // for short notes,and/* ... */ when you need longer explanations.
+2.we need keywords in programming language because they define the rule and sructure of language
+3. int example int age = 20;
+   char example char grade ='A';
+   float examole float pi = 3.24;
+

@@ -1,4 +1,0 @@
-c is fast and efficient
-c is portable and works on many systems
-c is the foundation of many modern languages
-
